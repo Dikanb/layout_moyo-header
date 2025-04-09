@@ -72,5 +72,9 @@ a {
 }
 
 .nav__item:last-child {
-  margin: 0;
+  margin-right: 0;
+}
+
+.nav__item:first-child {
+  margin-left: 0;
 }
